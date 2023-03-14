@@ -1,0 +1,15 @@
+{
+  "name": "senae-ui-react",
+  "version": "0.1.0",
+  "description": "Senae UI for React",
+  "main": "index.js",
+  "repository": "https://github.com/hoqn/senae-ui-react",
+  "author": "Hogyun Jeon",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^18.0.28",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "packageManager": "yarn@3.4.1"
+}
